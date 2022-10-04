@@ -1,0 +1,28 @@
+[
+  {
+    "content": "Главная",
+    "path": "/main"
+  },
+  {
+    "content": "Учебник",
+    "path": "/book"
+  },
+  {
+    "content": "Аудиовызов",
+    "path": "/level-selection",
+    "game": "#/audio-call"
+  },
+  {
+    "content": "Спринт",
+    "path": "/level-selection",
+    "game": "#/sprint"
+  },
+  {
+    "content": "Статистика",
+    "path": "/statistic"
+  },
+  {
+    "content": "Авторы",
+    "path": "/authors"
+  }
+]

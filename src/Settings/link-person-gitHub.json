@@ -1,0 +1,17 @@
+[
+  {
+    "src": "https://github.com/nikimix",
+    "imgWhite": "./assets/img/github2Nikita.png",
+    "imgBlack":"./assets/img/githubNikita.png"
+  },
+  {
+    "src": "https://github.com/SmSka2021",
+    "imgWhite": "./assets/img/github2Sveta.png",
+    "imgBlack": "./assets/img/githubSveta.png"
+  },
+  {
+    "src": "https://github.com/ekambalov",
+    "imgWhite": "./assets/img/github2Jgor.png",
+    "imgBlack": "./assets/img/githubJgor.png"
+  }
+]

@@ -1,0 +1,110 @@
+.level-selection {
+  font-family: 'Junegull';
+  text-align: center;
+  margin: 10% auto 0;
+  padding: 60px 80px 80px;
+  border-radius: 25px;
+  height: 450px;
+  min-height: 450px;
+  // box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  box-shadow: 0 0 0 2px white, 0 0 0 4px #3A2F28;
+}
+
+.level-selection__title {
+  font-family: 'Junegull';
+  text-shadow: 1px 3px 1px rgb(10, 10, 10);
+  color: gold;
+  font-weight: 300;
+  font-size: 60px;
+  margin: 0 auto 30px;
+
+}
+
+.level-selection__text {
+  text-shadow: 1px 3px 1px rgb(10, 10, 10);
+  color: rgb(243, 243, 240);
+  font-weight: 200;
+  font-size: 30px;
+  margin: 30px auto 70px;
+}
+
+.level-btn {
+  text-shadow: 2px 2px 2px rgb(10, 10, 10);
+  color: rgb(243, 243, 240);
+  width: 50px;
+  height: 50px;
+  background-size: 100% 100%;
+  font-size: 20px;
+  font-family: 'Junegull';
+  font-weight: 200;
+  border-radius: 10px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  border: none;
+  transition: all .3s ease;
+  cursor: pointer;
+
+  &:hover {
+    box-shadow: 0 0 0 2px #D2973D inset, 0 0 0 4px white inset;
+  }
+}
+
+.btn-selection--a1 {
+  background-color: rgb(47, 204, 47);
+}
+
+.btn-selection--a2 {
+  background-color: rgb(204, 47, 81);
+}
+
+.btn-selection--b1 {
+  background-color: rgb(47, 63, 204);
+}
+
+.btn-selection--b2 {
+  background-color: rgb(216, 203, 21);
+}
+
+.btn-selection--c1 {
+  background-color: rgb(165, 26, 170);
+}
+
+.btn-selection--c2 {
+  background-color: rgb(16, 160, 165);
+}
+
+.selection-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+@media screen and (max-width: 620px) {
+  .level-selection {
+    padding: 50px;
+    margin: 15px;
+  }
+
+  .level-selection__title {
+    font-size: 40px;
+  }
+
+  .level-selection__text {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .level-selection {
+    padding: 30px;
+  }
+
+  .level-selection__title {
+    font-size: 30px;
+  }
+
+  .level-selection__text {
+    font-size: 20px;
+    margin: 20px auto 30px;
+  }
+}

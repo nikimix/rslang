@@ -1,11 +1,14 @@
 # rslang
 
-[RSS task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md)
+RS-lang is smart application for learning english language. It is final task RS-School JS / FRONT-END course.
 
-RS Lang - application for the study of foreign words, including an electronic textbook with a word base
+This programm was writing with next stack of technologies:
 
-- application is developed in ts
+- webpack
+- typescript
+- sass (scss)
 
-[Pull Request](https://github.com/nikimix/rslang/pull/1)
-
-[Deploy](https://nikimix.github.io/rslang)
+main commands for npm:
+- npm start - for running project
+- npm run build - for building project
+- npm run lint - for cheking project by eslint
