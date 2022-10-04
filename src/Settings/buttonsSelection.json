@@ -1,0 +1,32 @@
+[
+  {
+    "className": "btn-selection--a1",
+    "content": "A1",
+    "group": "0"
+  },
+  {
+    "className": "btn-selection--a2",
+    "content": "A2",
+    "group": "1"
+  },
+  {
+    "className": "btn-selection--b1",
+    "content": "B1",
+    "group": "2"
+  },
+  {
+    "className": "btn-selection--b2",
+    "content": "B2",
+    "group": "3"
+  },
+  {
+    "className": "btn-selection--c1",
+    "content": "C1",
+    "group": "4"
+  },
+  {
+    "className": "btn-selection--c2",
+    "content": "C2",
+    "group": "5"
+  }
+]

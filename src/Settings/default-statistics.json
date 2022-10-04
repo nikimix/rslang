@@ -1,0 +1,28 @@
+{
+  "learnedWords": 0,
+  "optional": {
+    "date": " ",
+    "sprint": {
+      "percent": 0,
+      "correct": 0,
+      "wrong": 0,
+      "series": 0,
+      "newWords": 0
+    },
+    "audioCall": {
+      "percent": 0,
+      "correct": 0,
+      "wrong": 0,
+      "series": 0,
+      "newWords": 0
+    },
+    "words": {
+      "sumNewWords": 0,
+      "percent": 0
+    },
+    "storage": {
+      "oldWords": [],
+      "learnedWords": []
+    }
+  }
+}
