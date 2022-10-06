@@ -4,7 +4,7 @@
 
 RS Lang - application for the study of foreign words, including an electronic textbook with a word base
 
-- application is developed in ts
+- application is developed in TypeScript
 
 [Pull Request](https://github.com/nikimix/rslang/pull/1)
 
